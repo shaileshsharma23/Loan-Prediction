@@ -1,5 +1,5 @@
 # Loan-Prediction
-![Collecting Twitter Users Data](https://github.com/archd3sai/News-Articles-Recommendation/blob/master/Images/1.0TwitterFlow.png)
+!(https://www.shubhbank.com/wp-content/uploads/2021/11/apply-for-personal-loan.jpg)
 
 # Introduction:
 
