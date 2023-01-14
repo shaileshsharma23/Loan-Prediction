@@ -1,5 +1,5 @@
 # Loan-Prediction
-[](https://www.shubhbank.com/wp-content/uploads/2021/11/apply-for-personal-loan.jpg)
+![loan_picture](https://www.shubhbank.com/wp-content/uploads/2021/11/apply-for-personal-loan.jpg)
 
 # Introduction:
 
