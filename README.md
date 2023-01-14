@@ -12,6 +12,7 @@ Data Id 📋:
 
 
 ![](https://miro.medium.com/max/795/1*cAd_tqzgCWtCVMjEasWmpQ.png)
+Dataset- 
 
 
 # The main objective for this dataset:
@@ -23,12 +24,9 @@ target value: Loan_Status
 
 
 # Models we will use:
-Decision Tree
-Random Forest
-XGBoost
-Logistic Regression
+Decision Tree, Random Forest, K-Nearest Neighbor, Logistic Regression, Naive Bayes Classifier
 
 
 # Conclusion
 Credit_History is a very important variable because of its high correlation with Loan_Status therefor showind high Dependancy for the latter.
-The Logistic Regression algorithm is the most accurate: approximately 83%.
+The Random Forest algorithm is the most accurate: approximately 80%.
