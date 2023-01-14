@@ -9,11 +9,12 @@ In finance, a loan is the lending of money by one or more individuals, organizat
 
 
 Data Id 📋:
+![](https://miro.medium.com/max/795/1*cAd_tqzgCWtCVMjEasWmpQ.png)
 
 
 The main objective for this dataset:
 Using machine learning techniques to predict loan payments.
-# target value: Loan_Status
+target value: Loan_Status
 
 
 
